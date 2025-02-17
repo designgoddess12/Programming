@@ -1,4 +1,4 @@
-const rectWidth = 300;
+const rectWidth = 200;
 let startingX = 50;
 let startingY = 50;
 let myRects = [];
